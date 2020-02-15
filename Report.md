@@ -64,13 +64,12 @@ Team Number: F9
 ## Screenshots
 My screenshots wouldn't paste here so i uploaded all the images on the repository. Really sorry about that.
 Procedure A, step 1:
-![Lab 1 Pic 1.JPG](img/placeholder.png)
-
+img/Lab 1 Pic 1.JPG
 Procedure A, step 4:
-![Lab 1 Pic 2.JPG](img/placeholder.png)
+img/Lab 1 Pic 2.JPG
 
 Procedure B, UART:
-![UARTTimer.PNG](img/placeholder.png)
+img/UARTTimer.PNG
 
 Procedure B, SPI:
-![SPI.PNG](img/placeholder.png)
+img/SPI.PNG
