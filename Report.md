@@ -64,13 +64,13 @@ Team Number: F9
 ## Screenshots
 My screenshots wouldn't paste here so i uploaded all the images on the repository. Really sorry about that.
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Lab 1 Pic 1.JPG](img/placeholder.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/placeholder.png)
+![Lab 1 Pic 2.JPG](img/placeholder.png)
 
 Procedure B, UART:
-![Put path to your image here ->](img/placeholder.png)
+![UARTTimer.PNG](img/placeholder.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/placeholder.png)
+![SPI.PNG](img/placeholder.png)
